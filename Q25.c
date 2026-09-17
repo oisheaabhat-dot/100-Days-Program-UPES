@@ -6,7 +6,7 @@ int main()
     double num1, num2, result;
 
     // Displaying menu options
-    printf("=== Gemini basic Calculator ===\n");
+    printf("=== Basic Calculator ===\n");
     printf("Supported operations: + (Add), - (Subtract), * (Multiply), / (Divide), %% (Modulo)\n\n");
 
     // Input operator
